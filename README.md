@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e96c4c&height=200&section=header&text=Ralf Hamacher&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=OSS+Maintainer+%7C+Backend+Developer&descAlignY=60" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E96C4C&center=true&vCenter=true&width=700&lines=Maintaining+open+source+🔧;Code+reviews+are+an+act+of+love+❤️;Building+things+on+the+internet" alt="Maintainer Typing"/>
+  <h1>Ralf Hamacher</h1>
+  <p>OSS Maintainer | Backend Developer</p>
 </div>
+
 
 ## ⌨️ About Me
 
