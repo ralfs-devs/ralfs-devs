@@ -23,7 +23,7 @@
 ## 🛠 Stack
 
 <p align="center">
-  <[img src=(https://skillicons.dev/icons?i=js, python,django,docker,postgres&perline=8)>
+  <img src=(https://skillicons.dev/icons?i=python,django,docker,postgres&perline=8)>
 </p>
 
 ## 📊 GitHub Stats
