@@ -16,10 +16,11 @@
 
 ## 🤝 Connect with me
 
-<p align="center">
-    
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralfs-devs)
-</p>
+<div align="center">
+  <a href="https://github.com/ralfs-devs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ## 🛠 Stack
 
