@@ -40,10 +40,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ralfs-devs&show_icons=true&theme=solarized-light&hide_border=true" height="155"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfs-devs&layout=compact&theme=solarized-light&hide_border=true" height="155"/>
-</div>
+</p>
 
 ## 💡 Top Languages
 
