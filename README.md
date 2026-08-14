@@ -13,7 +13,16 @@
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building%20things%20on%20the%20internet" alt="Typing SVG" />
   </a>
 </p>
-
+<div align="center">
+<p>I worked as a programmer several years ago, but then had to change careers for personal reasons.</p>
+<p>I’ve decided that I want to work as a programmer for my future professional career.</p>
+<p>Now that a lot has changed since my former programming experiences,</p>
+<p>I’ve made up my mind to first pursue further training in modern programming languages, operating systems, and frameworks,</p>
+<p>especially Python, Linux and Django including DRF.</p>
+<p>Nevertheless, I still have the opportunity to draw on the knowledge I've gained from past experiences.</p>
+<p>Furthermore, I am confident that I will be able to quickly learn the APIs, SDKs and all other technologies</p>
+<p>used in new challenges during my future work.</p>
+</div>
 ## 🤝 Connect with me
 
 <div align="center">
@@ -22,16 +31,7 @@
   </a>
 </div>
 
-<div align="center">
-I worked as a programmer several years ago, but then had to change careers for personal reasons.<br>
-I’ve decided that I want to work as a programmer for my future professional career.<br>
-Now that a lot has changed since my former programming experiences,<br>
-I’ve made up my mind to first pursue further training in modern programming languages, operating systems, and frameworks,<br>
-especially Python, Linux and Django including DRF.<br>
-Nevertheless, I still have the opportunity to draw on the knowledge I've gained from past experiences.<br>
-Furthermore, I am confident that I will be able to quickly learn the APIs, SDKs and all other technologies<br>
-used in new challenges during my future work.
-</div>
+
 ## 🛠 Stack
 
 <p align="center">
