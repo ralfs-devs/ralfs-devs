@@ -22,6 +22,11 @@
   </a>
 </div>
 
+<div>
+  I worked as a programmer several years ago, but then had to change careers for personal reasons.
+Now I’ve decided that I want to work as a programmer for my future professional career. Now that a lot has changed since my former programming experiences, I’ve decided—for my own professional development—to first pursue further training in modern programming languages, operating systems, and frameworks, especially Python, Linux and Django including DRF. Nevertheless, I still have the opportunity to draw on the knowledge I've gained from past experiences. Furthermore, I am confident that I will be able to quickly learn the APIs, SDKs and all other technologies which are used at any workingplace where I will be working in future.
+
+</div>
 ## 🛠 Stack
 
 <p align="center">
