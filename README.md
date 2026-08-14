@@ -35,15 +35,15 @@
 ## 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,docker,postgres&perline=8">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker&perline=8">
 </p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=ralfs-devs&show_icons=true&theme=solarized-light&hide_border=true" height="155"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=ralfs-devs&layout=compact&theme=solarized-light&hide_border=true" height="155"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ralfs-devs&show_icons=true&theme=solarized-light&hide_border=true" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfs-devs&layout=compact&theme=solarized-light&hide_border=true" height="155"/>
+</div>
 
 ## 💡 Top Languages
 
