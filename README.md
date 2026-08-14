@@ -38,29 +38,10 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker&perline=8">
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ralfs-devs&show_icons=true&theme=solarized-light&hide_border=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfs-devs&layout=compact&theme=solarized-light&hide_border=true" height="155"/>
-</p>
-
 ## 💡 Top Languages
 
 <p align="center">
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=ralfs-devs&layout=donut&theme=solarized-light&hide_border=true"/>
-</p>
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ralfs-devs&theme=solarized-light&hide_border=true" width="55%"/>
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ralfs-devs&theme=radical&no-frame=true&row=2&column=4"/>
 </p>
 
 ## 📈 Activity Graph
@@ -75,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/ralfs-devs/kanmind_backend">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=ralfs-devs&repo=kanmind_backend&theme=solarized-light&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ralfs-devs&repo=kanmind_backend&theme=solarized-light&hide_border=true"/>
   </a>
   <a href="https://github.com/ralfs-devs/DA_Notes">
     <img src="https://github-readmeapp.vercel.app/api/pin/?username=ralfs-devs&repo=DA_Notes&theme=solarized-light&hide_border=true"/>
