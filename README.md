@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<div>
+<div align="center">
 I worked as a programmer several years ago, but then had to change careers for personal reasons.<br>
 I’ve decided that I want to work as a programmer for my future professional career.<br>
 Now that a lot has changed since my former programming experiences,<br>
