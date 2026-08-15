@@ -54,15 +54,58 @@
 
 ## 🔨 Projects
 
-<p align="center">
-  <a href="https://github.com/ralfs-devs/kanmind_backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ralfs-devs&repo=kanmind_backend&theme=solarized-light&hide_border=true"/>
-  </a>
-  <a href="https://github.com/ralfs-devs/DA_Notes">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=ralfs-devs&repo=DA_Notes&theme=solarized-light&hide_border=true"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/ralfs-devs/kanmind_backend">
+        <div style="background: #0d1117; border-radius: 8px; padding: 20px; margin: 5px; border: 1px solid #30363d;">
+          <img src="https://raw.githubusercontent.com/ralfs-devs/kanmind_backend/main/kanmind.png" alt="KanMind Logo" width="100px"/><br/>
+          <strong style="color: #f0f6fc;">KanMind</strong><br/>
+          <small style="color: #58a6ff;">Django REST Framework</small><br/>
+          <br/>
+          <small style="color: #c9d1d9;">Kanban Board zur Aufgabenverteilung und Verwaltung</small>
+        </div>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/ralfs-devs/coderr">
+        <div style="background: #0d1117; border-radius: 8px; padding: 20px; margin: 5px; border: 1px solid #30363d;">
+          <img src="https://raw.githubusercontent.com/ralfs-devs/coderr/main/coderr.png" alt="Coderr Logo" width="100px"/><br/>
+          <strong style="color: #f0f6fc;">Coderr</strong><br/>
+          <small style="color: #58a6ff;">Django REST Framework</small><br/>
+          <br/>
+          <small style="color: #c9d1d9;">Freelancer Entwicklungsplattform</small>
+        </div>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/ralfs-devs/quizly">
+        <div style="background: #0d1117; border-radius: 8px; padding: 20px; margin: 5px; border: 1px solid #30363d;">
+          <img src="https://raw.githubusercontent.com/ralfs-devs/quizly/main/quizzly.png" alt="Quizly Logo" width="100px"/><br/>
+          <strong style="color: #f0f6fc;">Quizly</strong><br/>
+          <small style="color: #58a6ff;">Django REST Framework</small><br/>
+          <br/>
+          <small style="color: #c9d1d9;">Umwandlung von Videos in Quizze</small>
+        </div>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/ralfs-devs/videoflix">
+        <div style="background: #0d1117; border-radius: 8px; padding: 20px; margin: 5px; border: 1px solid #30363d;">
+          <img src="https://raw.githubusercontent.com/ralfs-devs/videoflix/main/videoflix.png" alt="Videoflix Logo" width="100px"/><br/>
+          <strong style="color: #f0f6fc;">Videoflix</strong><br/>
+          <small style="color: #58a6ff;">Django REST Framework</small><br/>
+          <br/>
+          <small style="color: #c9d1d9;">Videostreaming Plattform API</small>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96c4c,100:e96c4c&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <sub>
+    ℹ️ Project images used with permission of their respective copyright holders.<br>
+    Any reproduction or use without express permission from the copyright holder is prohibited.
+  </sub>
+</p>
