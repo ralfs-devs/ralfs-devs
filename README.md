@@ -106,6 +106,17 @@
   </tr>
 </table>
 
+## 🌐 Live Demos
+
+<p align="center">
+  <a href="https://ralfsdevs.schnellsurf.de">
+    <img src="https://img.shields.io/badge/Coderr-Live_Demo-3fb950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Coderr Live Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Frontend provided by <a href="https://github.com/Developer-Akademie-Backendkurs">Developer Akademie GmbH</a></sub>
+</p>
 <p align="center">
   <sub>
     ℹ️ Project images used with permission of their respective copyright holders.<br>
