@@ -81,7 +81,7 @@
     <td align="center" width="25%">
       <a href="https://github.com/ralfs-devs/quizly">
         <div style="background: #0d1117; border-radius: 8px; padding: 20px; margin: 5px; border: 1px solid #30363d;">
-          <img src="https://raw.githubusercontent.com/ralfs-devs/quizly/main/quizzly.png" alt="Quizly Logo" width="100px"/><br/>
+          <img src="https://raw.githubusercontent.com/ralfs-devs/quizly/main/quizly.png" alt="Quizly Logo" width="100px"/><br/>
           <strong style="color: #f0f6fc;">Quizly</strong><br/>
           <small style="color: #58a6ff;">Django REST Framework</small><br/>
           <br/>
