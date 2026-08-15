@@ -23,7 +23,8 @@
 <p>Furthermore, I am confident that I will be able to quickly learn the APIs, SDKs and all other technologies</p>
 <p>used in new challenges during my future work.</p>
 </div>
-## 🤝 Connect with me
+
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://github.com/ralfs-devs">
