@@ -59,11 +59,10 @@
       <a href="https://github.com/ralfs-devs/kanmind_backend">
         <div style="background: #0d1117; border-radius: 8px; padding: 25px; margin: 5px; border: 1px solid #30363d; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 220px;">
           <div>
-            <img src="https://raw.githubusercontent.com/ralfs-devs/kanmind_backend/main/kanmind.png" alt="KanMind Logo" width="80px" style="margin-bottom: 8px;"/><br/>
-            <strong style="color: #f0f6fc; font-size: 16px;">KanMind</strong><br/>
+            <img src="https://raw.githubusercontent.com/ralfs-devs/kanmind_backend/main/kanmind.png" alt="KanMind Logo" width="120px" style="margin-bottom: 8px;"/><br/>
             <small style="color: #58a6ff; display: block; margin-top: 4px;">Django REST Framework</small>
           </div>
-          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">Kanban Board zur Aufgabenverteilung und Verwaltung</small>
+          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">API for a KanBan Board</small>
         </div>
       </a>
     </td>
@@ -71,11 +70,10 @@
       <a href="https://github.com/ralfs-devs/coderr">
         <div style="background: #0d1117; border-radius: 8px; padding: 25px; margin: 5px; border: 1px solid #30363d; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 220px;">
           <div>
-            <img src="https://raw.githubusercontent.com/ralfs-devs/coderr/main/coderr.png" alt="Coderr Logo" width="80px" style="margin-bottom: 8px;"/><br/>
-            <strong style="color: #f0f6fc; font-size: 16px;">Coderr</strong><br/>
+            <img src="https://raw.githubusercontent.com/ralfs-devs/coderr/main/coderr.png" alt="Coderr Logo" width=120px" style="margin-bottom: 8px;"/><br/>
             <small style="color: #58a6ff; display: block; margin-top: 4px;">Django REST Framework</small>
           </div>
-          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">Freelancer Entwicklungsplattform</small>
+          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">Backend for a Freelance Developer Platform</small>
         </div>
       </a>
     </td>
@@ -83,11 +81,10 @@
       <a href="https://github.com/ralfs-devs/quizly">
         <div style="background: #0d1117; border-radius: 8px; padding: 25px; margin: 5px; border: 1px solid #30363d; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 220px;">
           <div>
-            <img src="https://raw.githubusercontent.com/ralfs-devs/quizly/main/quizly.png" alt="Quizly Logo" width="80px" style="margin-bottom: 8px;"/><br/>
-            <strong style="color: #f0f6fc; font-size: 16px;">Quizly</strong><br/>
+            <img src="https://raw.githubusercontent.com/ralfs-devs/quizly/main/quizly.png" alt="Quizly Logo" width="120px" style="margin-bottom: 8px;"/><br/>
             <small style="color: #58a6ff; display: block; margin-top: 4px;">Django REST Framework</small>
           </div>
-          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">Umwandlung von Videos in Quizze</small>
+          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">Turn videos into exciting quizzes</small>
         </div>
       </a>
     </td>
@@ -95,11 +92,10 @@
       <a href="https://github.com/ralfs-devs/videoflix">
         <div style="background: #0d1117; border-radius: 8px; padding: 25px; margin: 5px; border: 1px solid #30363d; display: flex; flex-direction: column; align-items: center; justify-content: space-between; height: 220px;">
           <div>
-            <img src="https://raw.githubusercontent.com/ralfs-devs/videoflix/main/videoflix.png" alt="Videoflix Logo" width="80px" style="margin-bottom: 8px;"/><br/>
-            <strong style="color: #f0f6fc; font-size: 16px;">Videoflix</strong><br/>
+            <img src="https://raw.githubusercontent.com/ralfs-devs/videoflix/main/videoflix.png" alt="Videoflix Logo" width="120px" style="margin-bottom: 8px;"/><br/>
             <small style="color: #58a6ff; display: block; margin-top: 4px;">Django REST Framework</small>
           </div>
-          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">Videostreaming Plattform API</small>
+          <small style="color: #c9d1d9; text-align: center; font-size: 13px; line-height: 1.4;">Videostreaming plattform API</small>
         </div>
       </a>
     </td>
