@@ -39,12 +39,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker&perline=8">
 </p>
 
-## 💡 Top Languages
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=ralfs-devs&layout=donut&theme=solarized-light&hide_border=true"/>
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
