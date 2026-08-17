@@ -106,7 +106,7 @@
 </p>
 
 <p align="center">
-  <sub>Frontend provided by <a href="https://github.com/Developer-Akademie-Backendkurs">Developer Akademie GmbH</a></sub>
+  <sub>Frontend for coderr API provided by <a href="https://github.com/Developer-Akademie-Backendkurs">Developer Akademie GmbH</a></sub>
 </p>
 <p align="center">
   <sub>
