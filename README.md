@@ -20,7 +20,7 @@
 <p>I’ve made up my mind to first pursue further training in modern programming languages, operating systems, and frameworks,</p>
 <p>especially Python, Linux and Django including DRF.</p>
 <p>Nevertheless, I still have the opportunity to draw on the knowledge I've gained from past experiences.</p>
-<p>Furthermore, I am confident that I will be able to quickly learn the APIs, SDKs and all other technologies</p>
+<p>Furthermore, I am confident that I will be able to quickly learn the APIs, SDKs, programming languages and all other technologies</p>
 <p>used in new challenges during my future work.</p>
 </div>
 
